@@ -17,9 +17,9 @@
 .tile-container {
   display: grid;
   grid-template-areas: 
-    'tile tile tile'
-    'tile tile tile'
-    'tile tile tile'
-    'tile tile tile'
-    'tile tile tile';
+    'tile tile tile tile'
+    'tile tile tile tile'
+    'tile tile tile tile'
+    'tile tile tile tile'
+    'tile tile tile tile';
 }

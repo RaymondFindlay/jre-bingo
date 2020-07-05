@@ -16,7 +16,7 @@ const TileContainer = () => {
             }
         }
 
-        if (bingo.length === 15) {
+        if (bingo.length === TileData.length) {
             alert('BINGO!')
         }
     }
